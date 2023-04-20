@@ -1,2 +1,2 @@
 # assembler
-Assignments written in assembly language for the 2nd semester
+Assignments written in assembly language during the 2nd semester
